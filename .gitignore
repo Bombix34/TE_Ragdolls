@@ -39,6 +39,8 @@ sysinfo.txt
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
 
+Assets/AwesomeFolders*
+
 .DS_Store*
 ._*
 .Spotlight-V100
